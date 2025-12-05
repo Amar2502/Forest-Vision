@@ -156,7 +156,7 @@ Shows the main application interface with:
 - **Sidebar**: Coordinate inputs, date selectors, example location buttons (Bolivia/Brazil), detailed analysis controls
 - **Main Area**: Interactive PyDeck map centered on selected coordinates
 
-### Screenshot 2: Forest Analysis Results
+### Screenshot 2: Area Selection
 
 ![Analysis Results](screenshots/Screenshot%202025-12-05%20182424.png)
 
@@ -167,7 +167,7 @@ Displays analysis results with:
   - Middle: Total forest change visualization with deforestation overlay (red) and legend
   - Right: Metrics panel showing forest cover percentages and hectares (with tabs)
 
-### Screenshot 3: Detailed Time-Series Analysis
+### Screenshot 3: Detailed Analysis
 
 ![Time-Series Analysis](screenshots/Screenshot%202025-12-05%20182507.png)
 
