@@ -1,0 +1,17 @@
+# Developer Files
+notebooks/
+
+# Temporary Files
+.DS_Store
+__pycache__/
+
+# Environment
+.env
+.envrc
+env.yaml
+.python-version
+
+# Data
+sentinel_imgs/
+
+

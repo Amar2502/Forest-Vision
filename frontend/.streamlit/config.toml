@@ -1,0 +1,13 @@
+[client]
+showSidebarNavigation = false
+[deprecation]
+showfileUploaderEncoding = false
+showPyplotGlobalUse = false
+showImageFormat = false
+showUseColumnWidth = false
+[theme]
+base="dark"
+primaryColor="#994636"
+backgroundColor="#262730"
+secondaryBackgroundColor="#0E1117"
+textColor = "#FFFFFF"
